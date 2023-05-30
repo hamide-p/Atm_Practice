@@ -1,8 +1,8 @@
 package core;
 
-public class. Deposit{
+public class Deposit{
    
-  // for depositng 
+  // for depositing
   
   // created on github for practice
 }
